@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi there, my name is Robby 👋
 
+### I'm a...
 * Web Developer  
 * Deep Learning Student & Researcher  
 * Complex Dynamic Systems Student & Researcher  

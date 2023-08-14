@@ -1,8 +1,7 @@
 # Hi there, my name is Robby 👋
 
 ### I'm a...
-* Deep Learning Student & Researcher  
-* Complex Dynamic Systems Student & Researcher  
+* Deep Learning and Complex Dynamic Systems Student/Researcher at University of Cincinnati
 * Web Developer (specifically React-oriented)  
 * Musician/Composer  
 * Notion Aficionado 

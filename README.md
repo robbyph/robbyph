@@ -21,6 +21,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=robbyph)](https://git.io/streak-stats)
 
-[![Robby's Git Hub stats](https://github-readme-stats.vercel.app/api?username=robbyph&show_icons=true&theme=github_dark)](https://github.com/robbyph/github-readme-stats)
+[![Robby's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbyph&show_icons=true&theme=github_dark)](https://github.com/robbyph/github-readme-stats)
 
 ---

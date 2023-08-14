@@ -19,7 +19,7 @@
 
 ---
 
-[![Robby's GitHub stats](https://github-readme-stats-robbyph.vercel.app/api?username=robbyph&show_icons=true&layout=compact&theme=github_dark)](https://github.com/robbyph/github-readme-stats)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=robbyph)](https://git.io/streak-stats)
 

@@ -1,7 +1,7 @@
 # Hi there, my name is Robby 👋
 
 ### I'm a...
-* Web Developer  
+* Web Developer (specifically React-oriented)  
 * Deep Learning Student & Researcher  
 * Complex Dynamic Systems Student & Researcher  
 * Musician/Composer  

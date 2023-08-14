@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+* Web Developer  
+* Deep Learning Student & Researcher  
+* Complex Dynamic Systems Student & Researcher  
+* Musician/Composer  
+* Notion Aficionado 
 <!--
 **robbyph/robbyph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

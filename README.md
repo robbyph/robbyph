@@ -1,9 +1,9 @@
 # Hi there, my name is Robby 👋
 
 ### I'm a...
-* Web Developer (specifically React-oriented)  
 * Deep Learning Student & Researcher  
 * Complex Dynamic Systems Student & Researcher  
+* Web Developer (specifically React-oriented)  
 * Musician/Composer  
 * Notion Aficionado 
 <!--

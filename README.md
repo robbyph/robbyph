@@ -7,18 +7,11 @@
 * Notion Aficionado
 
 ---
+
 🔭 I’m currently working on [EasyNote](https://github.com/robbyph/easynote) and [Sputnik](https://github.com/robbyph/Sputnik)  
 🌱 I’m currently researching **Speech Audio Recognition (SER) for Emotion Recognition**    
 👯 I’m looking to collaborate on Python projects, React-based web projects, Skyrim modifications and music!  
 📝 Check out my blog [here](https://www.robbyhoover.com/blog)!
 
-<!--
-**robbyph/robbyph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->

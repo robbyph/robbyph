@@ -19,7 +19,7 @@
 
 ---
 
-[![Robby's GitHub stats](https://github-readme-stats-robbyph.vercel.app/api?username=robbyph&show_icons=true&layout=compact&theme=github_dark&hide_rank=true)]([https://github.com/robbyph/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+[![Robby's GitHub stats](https://github-readme-stats-robbyph.vercel.app/api?username=robbyph&show_icons=true&layout=compact&theme=github_dark&hide_rank=true&include_all_commits=true)]([https://github.com/robbyph/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
 [![Robby's Top Langs](https://github-readme-stats-robbyph.vercel.app/api/top-langs/?username=robbyph&show_icons=true&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 

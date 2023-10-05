@@ -8,8 +8,8 @@
 
 ---
 
-🔭 I’m currently working on [EasyNote](https://github.com/robbyph/easynote) and [Sputnik](https://github.com/robbyph/Sputnik)  
 🌱 I’m currently researching **Speech Audio Recognition (SER) for Emotion Recognition**    
+🔭 I’m currently working on [EasyNote](https://github.com/robbyph/easynote) and [Sputnik](https://github.com/robbyph/Sputnik)  
 👯 I’m looking to collaborate on Python projects, React-based web projects, Skyrim modifications and music!  
 📝 Check out my blog [here](https://www.robbyhoover.com/blog)!
 

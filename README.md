@@ -10,7 +10,7 @@
 
 🌱 I’m currently researching **Speech Emotion Recognition (SER) with Deep Learning**    
 🔭 I’m currently working on [EasyNote](https://github.com/robbyph/easynote) and [Sputnik](https://github.com/robbyph/Sputnik)  
-👯 I’m looking to collaborate on Artifical Intelligence projects, python projects, React-based web projects, Skyrim modifications and music!  
+👯 I’m looking to collaborate on Artifical Intelligence projects, python projects, React-based web projects, Skyrim mods and music!  
 📝 Check out my blog [here](https://www.robbyhoover.com/blog)!
 
 ---

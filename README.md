@@ -38,7 +38,18 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a> 
 </p>
-
+          
+---
+          
+### Primary Research Interests
+- Deep Learning and Neural Networks
+- Modeling Complex Systems
+- Cellular Automata
+- Decision Support Systems
+- Fractal Analysis
+- Procedural Generation
+- Generative Music Composition
+  
 ---
 
 [![Robby's GitHub stats](https://github-readme-stats-robbyph.vercel.app/api?username=robbyph&show_icons=true&layout=compact&theme=github_dark&hide_rank=true&include_all_commits=true)]([https://github.com/robbyph/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))

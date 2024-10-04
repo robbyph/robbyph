@@ -9,8 +9,7 @@
 ---
 
 🌱 I’m currently researching **Deep Learning in Healthcare Imaging Diagnostics** 
-[//]: # ( )
-🔭 I’m currently working on [EasyNote](https://github.com/robbyph/easynote) and [Sputnik](https://github.com/robbyph/Sputnik)  
+🔭 I’m currently working on my thesis and 
 👯 I’m looking to collaborate on artifical intelligence projects, python projects, React-based web projects, Skyrim mods and music!  
 📝 Check out my blog [here](https://www.robbyhoover.com/blog)!
 

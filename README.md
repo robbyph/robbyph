@@ -1,15 +1,15 @@
-# Hi there, my name is Robby 👋
+# Robby Hoover
 
 ### I'm a...
 * Deep Learning and Complex Systems Student/Researcher at University of Cincinnati
-* Web Developer (specifically React-oriented) and general Software Developer
+* Web Developer (React-oriented), Game Developer, and general Software Developer
 * Musician/Composer  
 * Notion Aficionado
 
 ---
 
-🌱 I’m currently researching **Deep Learning in Healthcare Imaging Diagnostics**   
-🔭 I’m currently working on my thesis and   
+🌱 I’m currently researching **Deep Learning** in the areas of **Healthcare Imaging Diagnostics** and **Bat Wing Biometrics**  
+🔭 I’m currently working on my thesis for my Master of IT  
 👯 I’m looking to collaborate on artifical intelligence projects, python projects, React-based web projects, Skyrim mods and music!  
 📝 Check out my blog [here](https://www.robbyhoover.com/blog)!
 

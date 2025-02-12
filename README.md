@@ -49,6 +49,7 @@
 - Fractal Analysis
 - Procedural Generation
 - AI Programming Assistants
+- Social Network Analysis
 - Generative Music Composition
 
 ### Previous Research

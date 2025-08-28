@@ -2,7 +2,7 @@
 
 ### I'm a...
 * Deep Learning and Complex Systems Student/Researcher at University of Cincinnati
-* Web Developer (React-oriented), Game Developer, and general Software Developer
+* Game Developer, Web Developer (React-oriented) and general Software Developer
 * Musician/Composer  
 * Notion Aficionado
 

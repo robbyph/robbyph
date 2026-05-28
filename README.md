@@ -8,10 +8,10 @@
 
 ---
 
-🌱 I’m currently researching **Deep Learning** in the areas of **XAI**, **Healthcare Imaging Diagnostics** and **Bat Wing Biometrics**  
-🔭 I’m currently working on my comprehensive exams for my PhD in Information Technology
+🌱 I’m currently researching **Deep Learning** in the areas of **XAI**, **Healthcare Imaging Diagnostics** and **Bat Wing Biometrics**    
+🔭 I’m currently working on my comprehensive exams for my PhD in Information Technology    
 👯 I’m looking to collaborate on artifical intelligence research, games in Godot, React-based web projects, Skyrim mods or music!  
-📝 Check out my blog [here](https://www.robbyhoover.com/blog)!
+📝 Check out my blog [here](https://www.robbyhoover.com/blog)!   
           
 ---
           
